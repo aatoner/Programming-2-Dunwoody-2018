@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="description" content="Lab 1">
+	<meta name="keywords" content="HTML,CSS,Json,JavaScript">
+	<meta name="author" content="Angie Toner">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Graphical Visualization 101</title>
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+	
+</head>
+<body>
+
+<h1>Exploring Etsy Stats through the last 25 online connections: #theGFFA</h1>
+<img src="placeholder" alt="" width="104" height="142">
+<a href="https://www.etsy.com/shop/AngieToner">www.etsy.com/shop/AngieToner</a>
+<hr>
+
+	<div id="piechart" style="width: 900px; height: 500px;"></div>
+
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script type="text/javascript">
+	google.charts.load('current', {'packages':['corechart']});
+	google.charts.setOnLoadCallback(drawChart);
+	function drawChart() {
+  
+		  var data = google.visualization.arrayToDataTable([
+			['Title', 'Orders per Month'],
+			['September', septemberSales],
+			['October', octoberSales],
+			['November',  novemberSales],
+			['December',      decemberSales],
+			['January',    januarySales],
+		  ]);
+  
+		  var options = {
+			title: 'Where the Sales At?'
+		  };
+  
+		  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+  
+		  chart.draw(data, options);
+		}
+	  </script>
+		<script src="etsystatsjson.js"></script>	
+		<script>
+			
+			var octoberSales = 0, novemberSales = 0, decemberSales = 0, januarySales = 0, septemberSales = 0;
+			for(var i = 0; i < etsyStats.length; i++){
+
+
+				if(etsyStats[i].month == "September"){
+					septemberSales +=1;
+				}
+				
+				if(etsyStats[i].month == "October"){
+					octoberSales +=1;
+				}
+				if(etsyStats[i].month == "November"){
+					novemberSales +=1;
+				}
+				if(etsyStats[i].month == "December"){
+					decemberSales +=1;
+				}
+				if(etsyStats[i].month == "January"){
+					januarySales +=1;
+				}
+			}
+			console.log("There are " + octoberSales + " sales for the month of October");
+			console.log("There are " + novemberSales + " sales for the month of November.");
+			console.log("There are " + decemberSales + " sales for the month of December.");
+			console.log("There are " + januarySales + " sales for the month of January");
+			console.log("There are " + septemberSales + " sales for the month of September");
+		</script>
+<footer>
+</footer>
+</body>
+</html>
+
