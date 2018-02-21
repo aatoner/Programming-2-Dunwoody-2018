@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.9">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="tonanga"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2018-02-20 07:30:38 PM"/>
+        <attribute name="created" value="dG9uYW5nYTsgQ05ENTE2MkNRRDsgMjAxOC0wMi0xOTsgMDg6MTc6MTkgUE07IDI3Njg="/>
+        <attribute name="edited" value="dG9uYW5nYTsgQ05ENTE2MkNRRDsgMjAxOC0wMi0yMDsgMDc6MzA6MzggUE07IDI3NTU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="" type="Integer" array="False" size=""/>
+            <call expression="ellisonInvoicing()"/>
+            <while expression="months OR class OR grade OR tuition &lt;&gt; QUIT">
+                <while expression="months &lt; 9">
+                    <output expression="&quot;months&quot;" newline="True"/>
+                    <assign variable="months" expression="months + 1"/>
+                    <while expression="class &lt; 3">
+                        <output expression="&quot;class&quot;" newline="True"/>
+                        <assign variable="class" expression="class + 1"/>
+                        <while expression="grade &lt; 9">
+                            <output expression="&quot;grade&quot;" newline="True"/>
+                            <assign variable="grade" expression="grade + 1"/>
+                            <while expression="tuition &lt; 9">
+                                <output expression="&quot;tuition&quot;" newline="True"/>
+                                <assign variable="tuition" expression="tuition + 1"/>
+                            </while>
+                        </while>
+                    </while>
+                </while>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

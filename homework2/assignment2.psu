@@ -1,0 +1,52 @@
+//Angie Toner
+//2018/19/02
+//ASSIGNMENT 2 
+
+
+START
+	DECLARATIONS
+
+	string months[months] = "September", "October","November","December",
+						"January", "February","March", "April", "May"
+	num class[3] = 1, 2, 3
+	num grade[9] = 0, 1, 2, 3, 4, 5, 6, 7, 8
+	num tuition[9]= 80, 60, 120, 180, 240, 300, 360, 420, 480] 
+	num QUIT = 999
+
+	ellisonInvoicing()
+	
+	OUTPUT "Press enter to begin program and 999 to quit" 
+	
+	WHILE months OR class OR grade OR tuition <> 999
+	
+	months= 0
+	WHILE months < 9
+		OUTPUT months[months]
+		months = months + 1 	
+
+		class = 0
+		WHILE class < 3
+			OUTPUT class[class]
+			class = class + 1
+			
+			grade = 0
+			WHILE grade is < 9
+				OUTPUT grade[grade]
+				grade = grade + 1 
+				
+				tuition = 0
+				WHILE tuition is < 9
+					OUTPUT tuition[tuition]
+					tuition = tuition + 1 
+					
+				ENDWHILE
+				
+			ENDWHILE
+			
+		ENDWHILE
+		
+	ENDWHILE
+	
+
+STOP
+
