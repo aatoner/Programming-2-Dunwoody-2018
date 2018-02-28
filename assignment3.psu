@@ -1,0 +1,99 @@
+//Angie Toner
+//Assignment 3
+//2018-26-02
+
+START 
+
+	DECLARATIONS
+		num SIZE = 6
+		num DEPT_NUMB[SIZE] = 1, 2, 3, 4, 5, 6, 7
+		string DEPT_NAME[SIZE] = Personnel, Marketing, Manufacturing, 
+							Computer Services, Sales, Accounting, 
+							Shipping 					
+		string employee 
+		string EXIT = ZZZ
+		string isFound 
+		num x 
+		num sub
+		num hourlyWage
+		num hoursWorked
+		num gross = (hoursWorked * hourlyWage) * 52
+		
+	getReady()
+	while employee <> ZZZ 
+		departmentProfile()
+	endwhile
+	finishUp() 
+	
+STOP
+	
+	getReady()
+		isFound = "N"
+		x = 0; x < SIZE; x++ //is this correct for continual iteration? 
+		sub = 0
+		WHILE employee != ZZZ AND isFound = "N" //keep looping through getReady()to collect data on company departments 
+			OUTPUT "Welcome, this program is designed to track department number, department title, persons in these departments along
+					with information on their hourly wage and hours worked in a 52 week year.  Let's get started!  Please enter the Department Number."		
+			OUTPUT "Please enter the Department number, range is 1-7."
+			INPUT DEPT_NUMB
+			DEPT_NAME = DEPT_NUMB - 1
+			OUTPUT "Please enter employee name"
+			INPUT employee
+			OUTPUT "Please enter the hour wage"
+			INPUT hourlyWage
+			OUTPUT "Please enter the number of weeks worked in a week."
+			INPUT hourWorked
+				ENDIF 
+				sub = sub + 1 
+		ENDWHILE
+		isFound = "Y" THEN
+			OUTPUT "Generating Report.."
+	return
+			
+	departmentProfile()
+		IF (DEPT_NUMB == 0 AND DEPT_NAME == 0)
+			OUTPUT "Department number 1 is Personnel" employee "works" hoursWorked "at $" hourlyWage 
+					"for a gross income of $" gross
+							//I don't know what language to describe totaling the gross or all employees from the dept.
+							//would it be a loop inside the condition? 
+		IF (DEPT_NUMB == 1 AND DEPT_NAME == 1)
+			OUTPUT "Department number 2 is Marketing" employee "works" hoursWorked "at $" hourlyWage 
+					"for a gross income of $" gross 
+		IF (DEPT_NUMB == 2 AND DEPT_NAME == 2)
+			OUTPUT "Department number 3 is Manufacturing" employee "works" hoursWorked "at $" hourlyWage 
+							"for a gross income of $" gross 
+		IF (DEPT_NUMB == 3 AND DEPT_NAME == 3)
+			OUTPUT "Department number 4 is Computer Services" employee "works" hoursWorked "at $" hourlyWage 
+							"for a gross income of $" gross 
+		IF (DEPT_NUMB == 4 AND DEPT_NAME == 4)
+			OUTPUT "Department number 5 is Sales" employee "works" hoursWorked "at $" hourlyWage 
+							"for a gross income of $" gross 
+		IF (DEPT_NUMB == 5 AND DEPT_NAME == 5)
+			OUTPUT "Department number 6 is Accounting" employee "works" hoursWorked "at $" hourlyWage 
+							"for a gross income of $" gross 
+		IF (DEPT_NUMB == 6 AND DEPT_NAME == 6)
+			OUTPUT "Department number 7 is Shipping" employee "works" hoursWorked "at $" hourlyWage 
+							"for a gross income of $" gross
+	return
+			
+	finishUp()
+		OUTPUT "Thank you"
+	return
+
+	
+			
+	
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
