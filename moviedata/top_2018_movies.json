@@ -1,0 +1,1739 @@
+[
+  {
+    "rank": 1,
+    "movie": "Black Panther",
+    "distributor": "Walt Disney",
+    "genre": "Action",
+    "mpaa": "PG-13",
+    "gross": 605027218,
+    "tickets_sold": 67450080
+  },
+  {
+    "rank": 2,
+    "movie": "Jumanji: Welcome to the Jungle",
+    "distributor": "Sony Pictures",
+    "genre": "Adventure",
+    "mpaa": "PG-13",
+    "gross": 231243547,
+    "tickets_sold": 25779659
+  },
+  {
+    "rank": 3,
+    "movie": "The Greatest Showman",
+    "distributor": "20th Century Fox",
+    "genre": "Musical",
+    "mpaa": "PG",
+    "gross": 120667099,
+    "tickets_sold": 13452296
+  },
+  {
+    "rank": 4,
+    "movie": "Star Wars Ep. VIII: The Last Jedi",
+    "distributor": "Walt Disney",
+    "genre": "Adventure",
+    "mpaa": "PG-13",
+    "gross": 102573005,
+    "tickets_sold": 11435117
+  },
+  {
+    "rank": 5,
+    "movie": "Peter Rabbit",
+    "distributor": "Sony Pictures",
+    "genre": "Adventure",
+    "mpaa": "PG",
+    "gross": 102441915,
+    "tickets_sold": 11420503
+  },
+  {
+    "rank": 6,
+    "movie": "Fifty Shades Freed",
+    "distributor": "Universal",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 99626835,
+    "tickets_sold": 11106670
+  },
+  {
+    "rank": 7,
+    "movie": "The Post",
+    "distributor": "20th Century Fox",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 79666281,
+    "tickets_sold": 8881413
+  },
+  {
+    "rank": 8,
+    "movie": "Insidious: The Last Key",
+    "distributor": "Universal",
+    "genre": "Horror",
+    "mpaa": "PG-13",
+    "gross": 67347895,
+    "tickets_sold": 7508126
+  },
+  {
+    "rank": 9,
+    "movie": "A Wrinkle in Time",
+    "distributor": "Walt Disney",
+    "genre": "Adventure",
+    "mpaa": "PG",
+    "gross": 60751533,
+    "tickets_sold": 6772746
+  },
+  {
+    "rank": 10,
+    "movie": "Maze Runner: The Death Cure",
+    "distributor": "20th Century Fox",
+    "genre": "Thriller/Suspense",
+    "mpaa": "PG-13",
+    "gross": 57639089,
+    "tickets_sold": 6425762
+  },
+  {
+    "rank": 11,
+    "movie": "Game Night",
+    "distributor": "Warner Bros.",
+    "genre": "Comedy",
+    "mpaa": "R",
+    "gross": 54206414,
+    "tickets_sold": 6043078
+  },
+  {
+    "rank": 12,
+    "movie": "The Shape of Water",
+    "distributor": "Fox Searchlight",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 47012077,
+    "tickets_sold": 5241034
+  },
+  {
+    "rank": 13,
+    "movie": "12 Strong",
+    "distributor": "Warner Bros.",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 45410021,
+    "tickets_sold": 5062432
+  },
+  {
+    "rank": 14,
+    "movie": "Den of Thieves",
+    "distributor": "STX Entertainment",
+    "genre": "Action",
+    "mpaa": "R",
+    "gross": 44933602,
+    "tickets_sold": 5009320
+  },
+  {
+    "rank": 15,
+    "movie": "Pitch Perfect 3",
+    "distributor": "Universal",
+    "genre": "Comedy",
+    "mpaa": "PG-13",
+    "gross": 41596925,
+    "tickets_sold": 4637338
+  },
+  {
+    "rank": 16,
+    "movie": "Paddington 2",
+    "distributor": "Warner Bros.",
+    "genre": "Adventure",
+    "mpaa": "PG",
+    "gross": 40442052,
+    "tickets_sold": 4508589
+  },
+  {
+    "rank": 17,
+    "movie": "Red Sparrow",
+    "distributor": "20th Century Fox",
+    "genre": "Thriller/Suspense",
+    "mpaa": "R",
+    "gross": 39664829,
+    "tickets_sold": 4421943
+  },
+  {
+    "rank": 18,
+    "movie": "Darkest Hour",
+    "distributor": "Focus Features",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 38176183,
+    "tickets_sold": 4255984
+  },
+  {
+    "rank": 19,
+    "movie": "The Commuter",
+    "distributor": "Lionsgate",
+    "genre": "Action",
+    "mpaa": "PG-13",
+    "gross": 36343858,
+    "tickets_sold": 4051712
+  },
+  {
+    "rank": 20,
+    "movie": "The 15:17 to Paris",
+    "distributor": "Warner Bros.",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 35958478,
+    "tickets_sold": 4008748
+  },
+  {
+    "rank": 21,
+    "movie": "Ferdinand",
+    "distributor": "20th Century Fox",
+    "genre": "Adventure",
+    "mpaa": "PG",
+    "gross": 30178737,
+    "tickets_sold": 3364407
+  },
+  {
+    "rank": 22,
+    "movie": "Death Wish",
+    "distributor": "MGM",
+    "genre": "Action",
+    "mpaa": "R",
+    "gross": 29950250,
+    "tickets_sold": 3338935
+  },
+  {
+    "rank": 23,
+    "movie": "Three Billboards Outside Ebbing, Missouri",
+    "distributor": "Fox Searchlight",
+    "genre": "Black Comedy",
+    "mpaa": "R",
+    "gross": 29725792,
+    "tickets_sold": 3313912
+  },
+  {
+    "rank": 24,
+    "movie": "Annihilation",
+    "distributor": "Paramount Pictures",
+    "genre": "Thriller/Suspense",
+    "mpaa": "R",
+    "gross": 29628348,
+    "tickets_sold": 3303048
+  },
+  {
+    "rank": 25,
+    "movie": "Hostiles",
+    "distributor": "Entertainment Studios Motion Pictures",
+    "genre": "Western",
+    "mpaa": "R",
+    "gross": 29614819,
+    "tickets_sold": 3301540
+  },
+  {
+    "rank": 26,
+    "movie": "Coco",
+    "distributor": "Walt Disney",
+    "genre": "Musical",
+    "mpaa": "PG",
+    "gross": 29336531,
+    "tickets_sold": 3270516
+  },
+  {
+    "rank": 27,
+    "movie": "I, Tonya",
+    "distributor": "Neon",
+    "genre": "Black Comedy",
+    "mpaa": "R",
+    "gross": 27403904,
+    "tickets_sold": 3055061
+  },
+  {
+    "rank": 28,
+    "movie": "Winchester",
+    "distributor": "CBS Films",
+    "genre": "Thriller/Suspense",
+    "mpaa": "PG-13",
+    "gross": 24987223,
+    "tickets_sold": 2785643
+  },
+  {
+    "rank": 29,
+    "movie": "Tomb Raider",
+    "distributor": "Warner Bros.",
+    "genre": "Action",
+    "mpaa": "PG-13",
+    "gross": 23633317,
+    "tickets_sold": 2634706
+  },
+  {
+    "rank": 30,
+    "movie": "Molly?s Game",
+    "distributor": "STX Entertainment",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 23403264,
+    "tickets_sold": 2609059
+  },
+  {
+    "rank": 31,
+    "movie": "Proud Mary",
+    "distributor": "Sony Pictures",
+    "genre": "Action",
+    "mpaa": "R",
+    "gross": 20868638,
+    "tickets_sold": 2326492
+  },
+  {
+    "rank": 32,
+    "movie": "Phantom Thread",
+    "distributor": "Focus Features",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 20379160,
+    "tickets_sold": 2271924
+  },
+  {
+    "rank": 33,
+    "movie": "The Strangers: Prey at Night",
+    "distributor": "Aviron Pictures",
+    "genre": "Horror",
+    "mpaa": "R",
+    "gross": 18503141,
+    "tickets_sold": 2062780
+  },
+  {
+    "rank": 34,
+    "movie": "Lady Bird",
+    "distributor": "A24",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 17413208,
+    "tickets_sold": 1941271
+  },
+  {
+    "rank": 35,
+    "movie": "I Can Only Imagine",
+    "distributor": "Roadside Attractions",
+    "genre": "Drama",
+    "mpaa": "PG",
+    "gross": 17104797,
+    "tickets_sold": 1906889
+  },
+  {
+    "rank": 36,
+    "movie": "Forever My Girl",
+    "distributor": "Roadside Attractions",
+    "genre": "Drama",
+    "mpaa": "PG",
+    "gross": 16290896,
+    "tickets_sold": 1816153
+  },
+  {
+    "rank": 37,
+    "movie": "Call Me by Your Name",
+    "distributor": "Sony Pictures Classics",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 12836292,
+    "tickets_sold": 1431024
+  },
+  {
+    "rank": 38,
+    "movie": "All the Money in the World",
+    "distributor": "Sony Pictures",
+    "genre": "Thriller/Suspense",
+    "mpaa": "R",
+    "gross": 12393945,
+    "tickets_sold": 1381710
+  },
+  {
+    "rank": 39,
+    "movie": "Padmavati",
+    "distributor": "Paramount Pictures",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 11846060,
+    "tickets_sold": 1320630
+  },
+  {
+    "rank": 40,
+    "movie": "Love, Simon",
+    "distributor": "20th Century Fox",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 11756244,
+    "tickets_sold": 1310618
+  },
+  {
+    "rank": 41,
+    "movie": "Wonder",
+    "distributor": "Lionsgate",
+    "genre": "Drama",
+    "mpaa": "PG",
+    "gross": 10830525,
+    "tickets_sold": 1207416
+  },
+  {
+    "rank": 42,
+    "movie": "Early Man",
+    "distributor": "Lionsgate",
+    "genre": "Adventure",
+    "mpaa": "PG",
+    "gross": 8168933,
+    "tickets_sold": 910694
+  },
+  {
+    "rank": 43,
+    "movie": "Downsizing",
+    "distributor": "Paramount Pictures",
+    "genre": "Comedy",
+    "mpaa": "R",
+    "gross": 7289080,
+    "tickets_sold": 812606
+  },
+  {
+    "rank": 44,
+    "movie": "Every Day",
+    "distributor": "Orion Pictures",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 5992505,
+    "tickets_sold": 668060
+  },
+  {
+    "rank": 45,
+    "movie": "The Hurricane Heist",
+    "distributor": "Entertainment Studios Motion Pictures",
+    "genre": "Thriller/Suspense",
+    "mpaa": "PG-13",
+    "gross": 5369167,
+    "tickets_sold": 598569
+  },
+  {
+    "rank": 46,
+    "movie": "Samson",
+    "distributor": "Pure Flix Entertainment",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 4675433,
+    "tickets_sold": 521229
+  },
+  {
+    "rank": 47,
+    "movie": "Father Figures",
+    "distributor": "Warner Bros.",
+    "genre": "Comedy",
+    "mpaa": "R",
+    "gross": 4615957,
+    "tickets_sold": 514599
+  },
+  {
+    "rank": 48,
+    "movie": "Gringo",
+    "distributor": "STX Entertainment",
+    "genre": "Black Comedy",
+    "mpaa": "R",
+    "gross": 4522102,
+    "tickets_sold": 504136
+  },
+  {
+    "rank": 49,
+    "movie": "Thor: Ragnarok",
+    "distributor": "Walt Disney",
+    "genre": "Action",
+    "mpaa": "PG-13",
+    "gross": 3833139,
+    "tickets_sold": 427328
+  },
+  {
+    "rank": 50,
+    "movie": "2018 Oscar Shorts",
+    "distributor": "ShortsHD",
+    "genre": "Multiple Genres",
+    "mpaa": "Not Rated",
+    "gross": 3503077,
+    "tickets_sold": 390532
+  },
+  {
+    "rank": 51,
+    "movie": "Justice League",
+    "distributor": "Warner Bros.",
+    "genre": "Action",
+    "mpaa": "PG-13",
+    "gross": 3478000,
+    "tickets_sold": 387736
+  },
+  {
+    "rank": 52,
+    "movie": "The Disaster Artist",
+    "distributor": "A24",
+    "genre": "Comedy",
+    "mpaa": "R",
+    "gross": 3258821,
+    "tickets_sold": 363302
+  },
+  {
+    "rank": 53,
+    "movie": "La Boda de Valentina",
+    "distributor": "Lionsgate",
+    "genre": "Romantic Comedy",
+    "mpaa": "R",
+    "gross": 2783739,
+    "tickets_sold": 310338
+  },
+  {
+    "rank": 54,
+    "movie": "Mary and the Witch?s Flower",
+    "distributor": "GKIDS",
+    "genre": "Adventure",
+    "mpaa": "PG",
+    "gross": 2387016,
+    "tickets_sold": 266111
+  },
+  {
+    "rank": 55,
+    "movie": "Thoroughbreds",
+    "distributor": "Focus Features",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 2294050,
+    "tickets_sold": 255746
+  },
+  {
+    "rank": 56,
+    "movie": "Daddy?s Home 2",
+    "distributor": "Paramount Pictures",
+    "genre": "Comedy",
+    "mpaa": "PG-13",
+    "gross": 2238062,
+    "tickets_sold": 249505
+  },
+  {
+    "rank": 57,
+    "movie": "Murder on the Orient Express",
+    "distributor": "20th Century Fox",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 2206919,
+    "tickets_sold": 246033
+  },
+  {
+    "rank": 58,
+    "movie": "Detective Chinatown 2",
+    "distributor": "Warner Bros.",
+    "genre": "Action",
+    "mpaa": "R",
+    "gross": 1953983,
+    "tickets_sold": 217835
+  },
+  {
+    "rank": 59,
+    "movie": "Padman",
+    "distributor": "Sony Pictures",
+    "genre": "Comedy",
+    "mpaa": "PG-13",
+    "gross": 1662927,
+    "tickets_sold": 185387
+  },
+  {
+    "rank": 60,
+    "movie": "7 Days in Entebbe",
+    "distributor": "Focus Features",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 1592645,
+    "tickets_sold": 177552
+  },
+  {
+    "rank": 61,
+    "movie": "A Fantastic Woman",
+    "distributor": "Sony Pictures Classics",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 1495730,
+    "tickets_sold": 166748
+  },
+  {
+    "rank": 62,
+    "movie": "Operation Red Sea",
+    "distributor": "Well Go USA",
+    "genre": "Action",
+    "mpaa": "Not Rated",
+    "gross": 1434087,
+    "tickets_sold": 159875
+  },
+  {
+    "rank": 63,
+    "movie": "Along With The Gods: The Two Worlds",
+    "distributor": "Well Go USA",
+    "genre": "Action",
+    "mpaa": "Not Rated",
+    "gross": 1266947,
+    "tickets_sold": 141242
+  },
+  {
+    "rank": 64,
+    "movie": "Tiger Zinda Hai",
+    "distributor": "Yash Raj Films",
+    "genre": "Action",
+    "mpaa": "Not Rated",
+    "gross": 988690,
+    "tickets_sold": 110221
+  },
+  {
+    "rank": 65,
+    "movie": "The Insult",
+    "distributor": "Cohen Media Group",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 932230,
+    "tickets_sold": 103927
+  },
+  {
+    "rank": 66,
+    "movie": "The Star",
+    "distributor": "Sony Pictures",
+    "genre": "Adventure",
+    "mpaa": "PG",
+    "gross": 884046,
+    "tickets_sold": 98555
+  },
+  {
+    "rank": 67,
+    "movie": "The Death of Stalin",
+    "distributor": "IFC Films",
+    "genre": "Comedy",
+    "mpaa": "R",
+    "gross": 801067,
+    "tickets_sold": 89305
+  },
+  {
+    "rank": 68,
+    "movie": "Film Stars Don?t Die in Liverpool",
+    "distributor": "Sony Pictures Classics",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 777230,
+    "tickets_sold": 86647
+  },
+  {
+    "rank": 69,
+    "movie": "Monster Hunt 2",
+    "distributor": "Lionsgate",
+    "genre": "Adventure",
+    "mpaa": "Not Rated",
+    "gross": 706153,
+    "tickets_sold": 78723
+  },
+  {
+    "rank": 70,
+    "movie": "Walk with me",
+    "distributor": "Gathr Films",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 689633,
+    "tickets_sold": 76882
+  },
+  {
+    "rank": 71,
+    "movie": "Ex Files 3: Return of the Exes",
+    "distributor": "China Lion Film Distribution",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 656871,
+    "tickets_sold": 73229
+  },
+  {
+    "rank": 72,
+    "movie": "The Florida Project",
+    "distributor": "A24",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 603818,
+    "tickets_sold": 67315
+  },
+  {
+    "rank": 73,
+    "movie": "The Party",
+    "distributor": "Roadside Attractions",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 597477,
+    "tickets_sold": 66608
+  },
+  {
+    "rank": 74,
+    "movie": "Marshall",
+    "distributor": "Open Road",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 583341,
+    "tickets_sold": 65032
+  },
+  {
+    "rank": 75,
+    "movie": "Get Out",
+    "distributor": "Universal",
+    "genre": "Horror",
+    "mpaa": "R",
+    "gross": 556525,
+    "tickets_sold": 62042
+  },
+  {
+    "rank": 76,
+    "movie": "Bilal: A New Breed of Hero",
+    "distributor": "Vertical Entertainment",
+    "genre": "Adventure",
+    "mpaa": "PG-13",
+    "gross": 490515,
+    "tickets_sold": 54683
+  },
+  {
+    "rank": 77,
+    "movie": "Condorito: The Movie",
+    "distributor": "Lionsgate",
+    "genre": "Adventure",
+    "mpaa": "PG",
+    "gross": 447719,
+    "tickets_sold": 49912
+  },
+  {
+    "rank": 78,
+    "movie": "Blade Runner 2049",
+    "distributor": "Warner Bros.",
+    "genre": "Thriller/Suspense",
+    "mpaa": "R",
+    "gross": 399647,
+    "tickets_sold": 44553
+  },
+  {
+    "rank": 79,
+    "movie": "Loving Vincent",
+    "distributor": "Good Deed Entertainment",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 378268,
+    "tickets_sold": 42170
+  },
+  {
+    "rank": 80,
+    "movie": "Loveless",
+    "distributor": "Sony Pictures Classics",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 350616,
+    "tickets_sold": 39087
+  },
+  {
+    "rank": 81,
+    "movie": "Bombshell: The Hedy Lamarr Story",
+    "distributor": "Zeitgeist",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 339785,
+    "tickets_sold": 37880
+  },
+  {
+    "rank": 82,
+    "movie": "Faces, Places",
+    "distributor": "Cohen Media Group",
+    "genre": "Documentary",
+    "mpaa": "PG",
+    "gross": 329958,
+    "tickets_sold": 36784
+  },
+  {
+    "rank": 83,
+    "movie": "The Leisure Seeker",
+    "distributor": "Sony Pictures Classics",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 326984,
+    "tickets_sold": 36453
+  },
+  {
+    "rank": 84,
+    "movie": "Youth",
+    "distributor": "China Lion Film Distribution",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 312241,
+    "tickets_sold": 34809
+  },
+  {
+    "rank": 85,
+    "movie": "In The Fade",
+    "distributor": "Magnolia Pictures",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 295230,
+    "tickets_sold": 32913
+  },
+  {
+    "rank": 86,
+    "movie": "The Square",
+    "distributor": "Magnolia Pictures",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 277308,
+    "tickets_sold": 30915
+  },
+  {
+    "rank": 87,
+    "movie": "Happy End",
+    "distributor": "Sony Pictures Classics",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 230054,
+    "tickets_sold": 25647
+  },
+  {
+    "rank": 88,
+    "movie": "Jane",
+    "distributor": "Abramorama Films",
+    "genre": "Documentary",
+    "mpaa": "PG",
+    "gross": 220790,
+    "tickets_sold": 24614
+  },
+  {
+    "rank": 89,
+    "movie": "A Bad Moms Christmas",
+    "distributor": "STX Entertainment",
+    "genre": "Comedy",
+    "mpaa": "R",
+    "gross": 218671,
+    "tickets_sold": 24378
+  },
+  {
+    "rank": 90,
+    "movie": "But Deliver Us From Evil",
+    "distributor": "Indican Pictures",
+    "genre": "Horror",
+    "mpaa": "Not Rated",
+    "gross": 217549,
+    "tickets_sold": 24252
+  },
+  {
+    "rank": 91,
+    "movie": "The Final Year",
+    "distributor": "Magnolia Pictures",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 191900,
+    "tickets_sold": 21393
+  },
+  {
+    "rank": 92,
+    "movie": "The Monkey King 3: Kingdom of Women",
+    "distributor": "Well Go USA",
+    "genre": "Action",
+    "mpaa": "Not Rated",
+    "gross": 187074,
+    "tickets_sold": 20855
+  },
+  {
+    "rank": 93,
+    "movie": "Goldbuster",
+    "distributor": "Well Go USA",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 186135,
+    "tickets_sold": 20750
+  },
+  {
+    "rank": 94,
+    "movie": "Foxtrot",
+    "distributor": "Sony Pictures Classics",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 175824,
+    "tickets_sold": 19601
+  },
+  {
+    "rank": 95,
+    "movie": "Agent Mr. Chan",
+    "distributor": "China Lion Film Distribution",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 175790,
+    "tickets_sold": 19597
+  },
+  {
+    "rank": 96,
+    "movie": 1945,
+    "distributor": "Menemsha Entertainment",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 164781,
+    "tickets_sold": 18370
+  },
+  {
+    "rank": 97,
+    "movie": "Only the Brave",
+    "distributor": "Sony Pictures",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 158763,
+    "tickets_sold": 17699
+  },
+  {
+    "rank": 98,
+    "movie": "Geostorm",
+    "distributor": "Warner Bros.",
+    "genre": "Action",
+    "mpaa": "PG-13",
+    "gross": 121378,
+    "tickets_sold": 13531
+  },
+  {
+    "rank": 99,
+    "movie": "Till the End of the World",
+    "distributor": "China Lion Film Distribution",
+    "genre": "Adventure",
+    "mpaa": "Not Rated",
+    "gross": 118352,
+    "tickets_sold": 13194
+  },
+  {
+    "rank": 100,
+    "movie": "Oh Lucy!",
+    "distributor": "Film Movement",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 117112,
+    "tickets_sold": 13055
+  },
+  {
+    "rank": 101,
+    "movie": "?85 The Greatest Team in Football History",
+    "distributor": "Fathom Events",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 115463,
+    "tickets_sold": 12872
+  },
+  {
+    "rank": 102,
+    "movie": "Roman J. Israel, Esq.",
+    "distributor": "Sony Pictures",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 111438,
+    "tickets_sold": 12423
+  },
+  {
+    "rank": 103,
+    "movie": "Detective K: Secret of the Living Dead",
+    "distributor": "Well Go USA",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 104012,
+    "tickets_sold": 11595
+  },
+  {
+    "rank": 104,
+    "movie": "The Man Who Invented Christmas",
+    "distributor": "Bleecker Street",
+    "genre": "Adventure",
+    "mpaa": "PG",
+    "gross": 100351,
+    "tickets_sold": 11187
+  },
+  {
+    "rank": 105,
+    "movie": "Wonder Wheel",
+    "distributor": "Amazon Studios",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 96631,
+    "tickets_sold": 10772
+  },
+  {
+    "rank": 106,
+    "movie": "In Between",
+    "distributor": "Film Movement",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 94821,
+    "tickets_sold": 10570
+  },
+  {
+    "rank": 107,
+    "movie": "The Breadwinner",
+    "distributor": "GKIDS",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 92074,
+    "tickets_sold": 10264
+  },
+  {
+    "rank": 108,
+    "movie": "Nostalgia",
+    "distributor": "Bleecker Street",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 86301,
+    "tickets_sold": 9621
+  },
+  {
+    "rank": 109,
+    "movie": "Have a Nice Day",
+    "distributor": "Strand",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 74747,
+    "tickets_sold": 8332
+  },
+  {
+    "rank": 110,
+    "movie": "Leaning into the Wind",
+    "distributor": "Magnolia Pictures",
+    "genre": "Documentary",
+    "mpaa": "PG",
+    "gross": 72081,
+    "tickets_sold": 8035
+  },
+  {
+    "rank": 111,
+    "movie": "Parchi",
+    "distributor": "Atlas Distribution",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 69431,
+    "tickets_sold": 7740
+  },
+  {
+    "rank": 112,
+    "movie": "Tom of Finland",
+    "distributor": "Kino Lorber",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 69013,
+    "tickets_sold": 7693
+  },
+  {
+    "rank": 113,
+    "movie": "My Friend Dahmer",
+    "distributor": "FilmRise",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 64972,
+    "tickets_sold": 7243
+  },
+  {
+    "rank": 114,
+    "movie": "Wastelander",
+    "distributor": "Indican Pictures",
+    "genre": "Action",
+    "mpaa": "Not Rated",
+    "gross": 57545,
+    "tickets_sold": 6415
+  },
+  {
+    "rank": 115,
+    "movie": "Django",
+    "distributor": "Under the Milky Way",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 56556,
+    "tickets_sold": 6305
+  },
+  {
+    "rank": 116,
+    "movie": "Island of Lemurs: Madagascar",
+    "distributor": "Warner Bros.",
+    "genre": "Documentary",
+    "mpaa": "G",
+    "gross": 56381,
+    "tickets_sold": 6285
+  },
+  {
+    "rank": 117,
+    "movie": "Beuys",
+    "distributor": "Kino Lorber",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 56151,
+    "tickets_sold": 6259
+  },
+  {
+    "rank": 118,
+    "movie": "Itzhak",
+    "distributor": "Greenwich",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 53796,
+    "tickets_sold": 5997
+  },
+  {
+    "rank": 119,
+    "movie": "Before We Vanish",
+    "distributor": "Super LTD",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 52087,
+    "tickets_sold": 5806
+  },
+  {
+    "rank": 120,
+    "movie": "Flower",
+    "distributor": "The Orchard",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 48919,
+    "tickets_sold": 5453
+  },
+  {
+    "rank": 121,
+    "movie": "Keep The Change",
+    "distributor": "Kino Lorber",
+    "genre": "Romantic Comedy",
+    "mpaa": "Not Rated",
+    "gross": 48769,
+    "tickets_sold": 5436
+  },
+  {
+    "rank": 122,
+    "movie": "The Sacrifice",
+    "distributor": "Kino Lorber",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 47367,
+    "tickets_sold": 5280
+  },
+  {
+    "rank": 123,
+    "movie": "Big Sonia",
+    "distributor": "Argot Pictures",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 46704,
+    "tickets_sold": 5206
+  },
+  {
+    "rank": 124,
+    "movie": "Tehran Taboo",
+    "distributor": "Kino Lorber",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 45444,
+    "tickets_sold": 5066
+  },
+  {
+    "rank": 125,
+    "movie": "The Other Side of Hope",
+    "distributor": "Janus Films",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 43509,
+    "tickets_sold": 4850
+  },
+  {
+    "rank": 126,
+    "movie": "Namiya",
+    "distributor": "China Lion Film Distribution",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 39584,
+    "tickets_sold": 4412
+  },
+  {
+    "rank": 127,
+    "movie": "Submission",
+    "distributor": "Great Point Media",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 38689,
+    "tickets_sold": 4313
+  },
+  {
+    "rank": 128,
+    "movie": "Humor Me",
+    "distributor": "Shout! Factory",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 38419,
+    "tickets_sold": 4283
+  },
+  {
+    "rank": 129,
+    "movie": "Golden Exits",
+    "distributor": "Sony Pictures",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 37801,
+    "tickets_sold": 4214
+  },
+  {
+    "rank": 130,
+    "movie": "The Road Movie",
+    "distributor": "Oscilloscope Pictures",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 35757,
+    "tickets_sold": 3986
+  },
+  {
+    "rank": 131,
+    "movie": "God?s Own Country",
+    "distributor": "Samuel Goldwyn Films",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 32808,
+    "tickets_sold": 3657
+  },
+  {
+    "rank": 132,
+    "movie": "Girls vs. Gangsters",
+    "distributor": "Well Go USA",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 32743,
+    "tickets_sold": 3650
+  },
+  {
+    "rank": 133,
+    "movie": "Just Getting Started",
+    "distributor": "Broad Green Pictures",
+    "genre": "Comedy",
+    "mpaa": "PG-13",
+    "gross": 32608,
+    "tickets_sold": 3635
+  },
+  {
+    "rank": 134,
+    "movie": "24 Frames: Before and After Lumiere",
+    "distributor": "Janus Films",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 32346,
+    "tickets_sold": 3606
+  },
+  {
+    "rank": 135,
+    "movie": "BPM (Beats per Minute)",
+    "distributor": "The Orchard",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 31831,
+    "tickets_sold": 3548
+  },
+  {
+    "rank": 136,
+    "movie": "Young Lions of Gypsy",
+    "distributor": "IFC Films",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 30988,
+    "tickets_sold": 3454
+  },
+  {
+    "rank": 137,
+    "movie": "Memories of Underdevelopment",
+    "distributor": "Janus Films",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 29647,
+    "tickets_sold": 3305
+  },
+  {
+    "rank": 138,
+    "movie": "Same Kind of Different as Me",
+    "distributor": "Pure Flix Entertainment",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 29599,
+    "tickets_sold": 3299
+  },
+  {
+    "rank": 139,
+    "movie": "Mind Game (2004)",
+    "distributor": "GKIDS",
+    "genre": "Adventure",
+    "mpaa": "Not Rated",
+    "gross": 26684,
+    "tickets_sold": 2974
+  },
+  {
+    "rank": 140,
+    "movie": "Ridge Runners",
+    "distributor": "Indican Pictures",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 26019,
+    "tickets_sold": 2900
+  },
+  {
+    "rank": 141,
+    "movie": "Birdboy: The Forgotten Children",
+    "distributor": "GKIDS",
+    "genre": "Horror",
+    "mpaa": "Not Rated",
+    "gross": 25628,
+    "tickets_sold": 2857
+  },
+  {
+    "rank": 142,
+    "movie": "Let There Be Light",
+    "distributor": "Atlas Distribution",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 23403,
+    "tickets_sold": 2609
+  },
+  {
+    "rank": 143,
+    "movie": "The Divine Order",
+    "distributor": "Kino Lorber",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 20885,
+    "tickets_sold": 2328
+  },
+  {
+    "rank": 144,
+    "movie": "The Cured",
+    "distributor": "IFC Films",
+    "genre": "Horror",
+    "mpaa": "R",
+    "gross": 20261,
+    "tickets_sold": 2258
+  },
+  {
+    "rank": 145,
+    "movie": "Vazante",
+    "distributor": "Music Box Films",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 19556,
+    "tickets_sold": 2180
+  },
+  {
+    "rank": 146,
+    "movie": "Quest",
+    "distributor": "First Run Features",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 18216,
+    "tickets_sold": 2030
+  },
+  {
+    "rank": 147,
+    "movie": "Freak Show",
+    "distributor": "IFC Films",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 18216,
+    "tickets_sold": 2030
+  },
+  {
+    "rank": 148,
+    "movie": "Desolation",
+    "distributor": "Parade Deck Films",
+    "genre": "Thriller/Suspense",
+    "mpaa": "Not Rated",
+    "gross": 16920,
+    "tickets_sold": 1886
+  },
+  {
+    "rank": 149,
+    "movie": "The Female Brain",
+    "distributor": "IFC Films",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 16273,
+    "tickets_sold": 1814
+  },
+  {
+    "rank": 150,
+    "movie": "Thelma",
+    "distributor": "The Orchard",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 15380,
+    "tickets_sold": 1714
+  },
+  {
+    "rank": 151,
+    "movie": "The Lucky Man",
+    "distributor": "Indican Pictures",
+    "genre": "Action",
+    "mpaa": "Not Rated",
+    "gross": 15221,
+    "tickets_sold": 1696
+  },
+  {
+    "rank": 152,
+    "movie": "The Boy Downstairs",
+    "distributor": "FilmRise",
+    "genre": "Romantic Comedy",
+    "mpaa": "PG-13",
+    "gross": 13638,
+    "tickets_sold": 1520
+  },
+  {
+    "rank": 153,
+    "movie": "Novitiate",
+    "distributor": "Sony Pictures Classics",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 13296,
+    "tickets_sold": 1482
+  },
+  {
+    "rank": 154,
+    "movie": "Ichi The Killer: Definitive Remastered Edition",
+    "distributor": "Well Go USA",
+    "genre": "Horror",
+    "mpaa": "Not Rated",
+    "gross": 13055,
+    "tickets_sold": 1455
+  },
+  {
+    "rank": 155,
+    "movie": "Like Me",
+    "distributor": "Kino Lorber",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 12965,
+    "tickets_sold": 1445
+  },
+  {
+    "rank": 156,
+    "movie": "Journey?s End",
+    "distributor": "Good Deed Entertainment",
+    "genre": "Drama",
+    "mpaa": "R",
+    "gross": 12700,
+    "tickets_sold": 1415
+  },
+  {
+    "rank": 157,
+    "movie": "My Art",
+    "distributor": "Film Movement",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 12554,
+    "tickets_sold": 1399
+  },
+  {
+    "rank": 158,
+    "movie": "Death House",
+    "distributor": "Hannover House",
+    "genre": "Horror",
+    "mpaa": "R",
+    "gross": 11848,
+    "tickets_sold": 1320
+  },
+  {
+    "rank": 159,
+    "movie": "Victoria and Abdul",
+    "distributor": "Focus Features",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 11785,
+    "tickets_sold": 1313
+  },
+  {
+    "rank": 160,
+    "movie": "Claire?s Camera",
+    "distributor": "Cinema Guild",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 11489,
+    "tickets_sold": 1280
+  },
+  {
+    "rank": 161,
+    "movie": "Please Stand By",
+    "distributor": "Magnolia Pictures",
+    "genre": "Drama",
+    "mpaa": "PG-13",
+    "gross": 9868,
+    "tickets_sold": 1100
+  },
+  {
+    "rank": 162,
+    "movie": "Mama Africa",
+    "distributor": "ArtMattan Productions",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 9808,
+    "tickets_sold": 1093
+  },
+  {
+    "rank": 163,
+    "movie": "November",
+    "distributor": "Oscilloscope Pictures",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 8620,
+    "tickets_sold": 960
+  },
+  {
+    "rank": 164,
+    "movie": "Our Blood is Wine",
+    "distributor": "Music Box Films",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 8357,
+    "tickets_sold": 931
+  },
+  {
+    "rank": 165,
+    "movie": "The Crime of Monsieur Lange",
+    "distributor": "Rialto Pictures",
+    "genre": "Comedy",
+    "mpaa": "Not Rated",
+    "gross": 7856,
+    "tickets_sold": 875
+  },
+  {
+    "rank": 166,
+    "movie": "The Lodgers",
+    "distributor": "Epic Pictures Group",
+    "genre": "Horror",
+    "mpaa": "R",
+    "gross": 7362,
+    "tickets_sold": 820
+  },
+  {
+    "rank": 167,
+    "movie": "In the Land of Pomegranates",
+    "distributor": "First Run Features",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 7014,
+    "tickets_sold": 781
+  },
+  {
+    "rank": 168,
+    "movie": "Ex Libris: The New York Public Library",
+    "distributor": "Zipporah",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 6836,
+    "tickets_sold": 762
+  },
+  {
+    "rank": 169,
+    "movie": "Bill Nye: Science Guy",
+    "distributor": "PBS Distribution",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 5651,
+    "tickets_sold": 629
+  },
+  {
+    "rank": 170,
+    "movie": "Dolores",
+    "distributor": "PBS Distribution",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 5638,
+    "tickets_sold": 628
+  },
+  {
+    "rank": 171,
+    "movie": "Chavela",
+    "distributor": "Music Box Films",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 5212,
+    "tickets_sold": 581
+  },
+  {
+    "rank": 172,
+    "movie": "Souvenir",
+    "distributor": "Strand",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 5177,
+    "tickets_sold": 577
+  },
+  {
+    "rank": 173,
+    "movie": "Legend of the Mountain (1979) (Re-release)",
+    "distributor": "Kino Lorber",
+    "genre": "Thriller/Suspense",
+    "mpaa": "Not Rated",
+    "gross": 4776,
+    "tickets_sold": 532
+  },
+  {
+    "rank": 174,
+    "movie": "Kangaroo",
+    "distributor": "Abramorama Films",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 4547,
+    "tickets_sold": 506
+  },
+  {
+    "rank": 175,
+    "movie": "Kickboxer: Retaliation",
+    "distributor": "Well Go USA",
+    "genre": "Action",
+    "mpaa": "R",
+    "gross": 4537,
+    "tickets_sold": 505
+  },
+  {
+    "rank": 176,
+    "movie": "Brimstone & Glory",
+    "distributor": "Oscilloscope Pictures",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 4036,
+    "tickets_sold": 449
+  },
+  {
+    "rank": 177,
+    "movie": "Porto",
+    "distributor": "Kino Lorber",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 3863,
+    "tickets_sold": 430
+  },
+  {
+    "rank": 178,
+    "movie": "Song of Granite",
+    "distributor": "Oscilloscope Pictures",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 3774,
+    "tickets_sold": 420
+  },
+  {
+    "rank": 179,
+    "movie": "On the Beach at Night Alone",
+    "distributor": "Cinema Guild",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 3186,
+    "tickets_sold": 355
+  },
+  {
+    "rank": 180,
+    "movie": "The Ghosts of Johnson Woods",
+    "distributor": "Driving With Our Eyes Shut",
+    "genre": "Horror",
+    "mpaa": "Not Rated",
+    "gross": 3145,
+    "tickets_sold": 350
+  },
+  {
+    "rank": 181,
+    "movie": "Aida?s Secrets",
+    "distributor": "Music Box Films",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 3082,
+    "tickets_sold": 343
+  },
+  {
+    "rank": 182,
+    "movie": "The Paris Opera",
+    "distributor": "Film Movement",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 2766,
+    "tickets_sold": 308
+  },
+  {
+    "rank": 183,
+    "movie": "Shadowman",
+    "distributor": "Film Movement",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 2356,
+    "tickets_sold": 262
+  },
+  {
+    "rank": 184,
+    "movie": "The Cage Fighter",
+    "distributor": "IFC Films",
+    "genre": "Reality",
+    "mpaa": "Not Rated",
+    "gross": 2027,
+    "tickets_sold": 225
+  },
+  {
+    "rank": 185,
+    "movie": "F�licit�",
+    "distributor": "Strand",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 2016,
+    "tickets_sold": 224
+  },
+  {
+    "rank": 186,
+    "movie": "West of the Jordan River",
+    "distributor": "Kino Lorber",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 1926,
+    "tickets_sold": 214
+  },
+  {
+    "rank": 187,
+    "movie": "The Fencer",
+    "distributor": "CFI",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 1794,
+    "tickets_sold": 199
+  },
+  {
+    "rank": 188,
+    "movie": "Permanent",
+    "distributor": "Magnolia Pictures",
+    "genre": "Comedy",
+    "mpaa": "PG-13",
+    "gross": 1650,
+    "tickets_sold": 183
+  },
+  {
+    "rank": 189,
+    "movie": "Rat Film",
+    "distributor": "Cinema Guild",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 1627,
+    "tickets_sold": 181
+  },
+  {
+    "rank": 190,
+    "movie": "Mama Africa",
+    "distributor": "",
+    "genre": "",
+    "mpaa": "Not Rated",
+    "gross": 1606,
+    "tickets_sold": 179
+  },
+  {
+    "rank": 191,
+    "movie": "30 Years of Garbage: The Garbage Pail Kids Story",
+    "distributor": "Indican Pictures",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 935,
+    "tickets_sold": 104
+  },
+  {
+    "rank": 192,
+    "movie": "12 Days",
+    "distributor": "Distrib Films",
+    "genre": "Documentary",
+    "mpaa": "Not Rated",
+    "gross": 923,
+    "tickets_sold": 102
+  },
+  {
+    "rank": 193,
+    "movie": "Bad Lucky Goat",
+    "distributor": "Film Movement",
+    "genre": "Drama",
+    "mpaa": "Not Rated",
+    "gross": 835,
+    "tickets_sold": 93
+  }
+]
