@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Top Headlines</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <!--Utilizing the table functionality from this site https://datatables.net/manual/installation-->
+        <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.css">
+        <!-- FONT -->
+        <link href="//font.google.apis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" type="text/css" href="http://getskeleton.com/dist/css/skeleton.css">
+    </head>
+    <body>
+        <table id="myTable" class="display">
+            <thead>
+                <tr>
+                    <th>Source</th>
+                    <th>Source ID</th>
+                    <th>Source Name</th>
+                    <th>Author</th>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>URLS</th>
+                    <th>URLS To Image</th>
+                    <th>Published At</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#dataOutput}}
+                <tr>
+                    <td>{{source}}</td>
+                    <td>{{source_id}}</td>
+                    <td>{{source_name}}</td>
+                    <td>{{author}}</td>
+                    <td>{{title}}</td>
+                    <td>{{description}}</td>
+                    <td>{{url}}</td>
+                    <td>{{urlToImage}}</td>
+                    <td>{{publishedAt}}</td> 
+                </tr>
+                {{/dataOutput}}
+            </tbody>
+        </table>
+        <script>
+            $(document).ready( function () {
+            $('#myTable').DataTable();
+            } );
+        </script>
+    </body>
+</html>
+                    

@@ -1,0 +1,13 @@
+Your API key is: 749cb300bd154c4db7a15f78cbc8e0b8
+https://newsapi.org/register/success
+https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=749cb300bd154c4db7a15f78cbc8e0b8 //news headlines
+https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=749cb300bd154c4db7a15f78cbc8e0b8  //techcrunch
+
+var url = 'https://newsapi.org/v2/top-headlines?' +
+          'country=us&' +
+          'apiKey=749cb300bd154c4db7a15f78cbc8e0b8';
+var req = new Request(url);
+fetch(req)
+    .then(function(response) {
+        console.log(response.json());
+    })  //working with javascript 
